@@ -9,4 +9,12 @@ string title = userInput.GetTile();
 int playTime = userInput.GetPlayTime();
 MovieCategory genre = userInput.GetGenre();
 
-runtime.FilmRuntime(title, genre ,playTime);  
+if (playTime == 0)
+{
+    runtime.FilmRuntime(title, genre);
+}
+else
+{
+    runtime.FilmRuntime(title, genre, playTime);
+}
+

@@ -8,6 +8,7 @@ namespace Assignment_Film_Default
 {
     internal enum MovieCategory
     {
+        Onbekend,
         Horror,
         Action,
         Comedy,
