@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\bin\Debug\net6.0\Oefening_Opwarmers.exe
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\bin\Debug\net6.0\Oefening_Opwarmers.deps.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\bin\Debug\net6.0\Oefening_Opwarmers.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\bin\Debug\net6.0\Oefening_Opwarmers.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\bin\Debug\net6.0\Oefening_Opwarmers.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\refint\Oefening_Opwarmers.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\Oefening_Opwarmers.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Oefening_Opwarmers\obj\Debug\net6.0\ref\Oefening_Opwarmers.dll
