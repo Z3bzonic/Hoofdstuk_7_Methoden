@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\bin\Debug\net6.0\Grootste_Cijfer.exe
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\bin\Debug\net6.0\Grootste_Cijfer.deps.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\bin\Debug\net6.0\Grootste_Cijfer.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\bin\Debug\net6.0\Grootste_Cijfer.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\bin\Debug\net6.0\Grootste_Cijfer.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\refint\Grootste_Cijfer.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\Grootste_Cijfer.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Grootste_Cijfer\obj\Debug\net6.0\ref\Grootste_Cijfer.dll

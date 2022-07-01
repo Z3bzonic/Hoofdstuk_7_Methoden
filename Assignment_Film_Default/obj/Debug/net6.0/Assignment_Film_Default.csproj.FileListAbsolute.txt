@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\bin\Debug\net6.0\Assignment_Film_Default.exe
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\bin\Debug\net6.0\Assignment_Film_Default.deps.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\bin\Debug\net6.0\Assignment_Film_Default.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\bin\Debug\net6.0\Assignment_Film_Default.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\bin\Debug\net6.0\Assignment_Film_Default.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\refint\Assignment_Film_Default.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\Assignment_Film_Default.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Film_Default\obj\Debug\net6.0\ref\Assignment_Film_Default.dll

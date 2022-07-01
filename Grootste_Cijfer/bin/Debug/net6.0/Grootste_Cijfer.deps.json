@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Grootste_Cijfer/1.0.0": {
+        "runtime": {
+          "Grootste_Cijfer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grootste_Cijfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
