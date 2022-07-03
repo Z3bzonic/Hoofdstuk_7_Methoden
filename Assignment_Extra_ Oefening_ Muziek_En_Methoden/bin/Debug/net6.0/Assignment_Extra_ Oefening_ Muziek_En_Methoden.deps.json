@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment_Extra_ Oefening_ Muziek_En_Methoden/1.0.0": {
+        "runtime": {
+          "Assignment_Extra_ Oefening_ Muziek_En_Methoden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_Extra_ Oefening_ Muziek_En_Methoden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

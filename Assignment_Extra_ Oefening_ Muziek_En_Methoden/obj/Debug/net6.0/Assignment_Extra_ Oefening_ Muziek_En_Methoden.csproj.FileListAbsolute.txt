@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\bin\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.exe
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\bin\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.deps.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\bin\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\bin\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\bin\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\refint\Assignment_Extra_ Oefening_ Muziek_En_Methoden.dll
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.pdb
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\Assignment_Extra_ Oefening_ Muziek_En_Methoden.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_7_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden\obj\Debug\net6.0\ref\Assignment_Extra_ Oefening_ Muziek_En_Methoden.dll
