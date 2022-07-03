@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password_Generator", "Passw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Film_Default", "Assignment_Film_Default\Assignment_Film_Default.csproj", "{B3F54201-7F7A-4A07-9792-96990B9704FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Extra_ Oefening_ Muziek_En_Methoden", "Assignment_Extra_ Oefening_ Muziek_En_Methoden\Assignment_Extra_ Oefening_ Muziek_En_Methoden.csproj", "{CADF7F02-7995-45CA-807D-C081668957E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B3F54201-7F7A-4A07-9792-96990B9704FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F54201-7F7A-4A07-9792-96990B9704FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F54201-7F7A-4A07-9792-96990B9704FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADF7F02-7995-45CA-807D-C081668957E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADF7F02-7995-45CA-807D-C081668957E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADF7F02-7995-45CA-807D-C081668957E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADF7F02-7995-45CA-807D-C081668957E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
